@@ -1,0 +1,66 @@
+c:\users\win10\documents\visual studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe.config
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.pdb
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form1.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form2.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form3.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form4.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form5.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form6.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Properties.Resources.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csproj.GenerateResource.Cache
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.exe
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.pdb
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form7.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form8.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe.config
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.exe
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.pdb
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.pdb
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csprojResolveAssemblyReference.cache
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form1.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form2.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form3.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form4.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form5.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form6.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form7.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form8.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Properties.Resources.resources
+D:\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csproj.GenerateResource.Cache
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe.config
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.pdb
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csprojResolveAssemblyReference.cache
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form1.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form2.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form3.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form4.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form5.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form6.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form7.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form8.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Properties.Resources.resources
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csproj.GenerateResource.Cache
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csproj.CoreCompileInputs.cache
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.exe
+C:\SEDA\DERSLERRRR\Veri Tabanı\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.pdb
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe.config
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.exe
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\bin\Debug\emlakotomasyonu.pdb
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csprojResolveAssemblyReference.cache
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form1.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form2.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form3.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form4.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form5.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form6.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form7.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Form8.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.Properties.Resources.resources
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csproj.GenerateResource.Cache
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.csproj.CoreCompileInputs.cache
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.exe
+C:\SEDA\DERSLER\Veri Tabanı ve Yönetim Sistemleri\emlakotomasyonu\emlakotomasyonu\obj\Debug\emlakotomasyonu.pdb
